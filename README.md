@@ -1,4 +1,4 @@
-# QuackTrack
+# QuackTrack - For ADP Prompt and Most Innovative Award
 
 ## Inspiration
 QuackTrack was built with the goal of assisting college students in overcoming the challenges of the job search process. As students ourselves, we encountered several obstacles when trying to find the right job, refine our resumes, and prepare for interviews. QuackTrack is designed to simplify and guide users through these stages by providing AI-driven recommendations and actionable feedback.
